@@ -1,9 +1,12 @@
 **Task Management App**
-Project Title -( Task Now )
+
 🔗 Links
 https://tasknow25.web.app/
+
+
 Task Now , highlighting its strengths and uniqueness
 Task Now is a powerful and user-friendly Task Management application designed to help users organize, track, and manage their daily tasks efficiently. With an intuitive interface and seamless user experience, Task Now allows users to create, update, and delete tasks effortlessly.
+
 
 🔹 Key Features:
 User Authentication -> Secure login system for personalized task management.
